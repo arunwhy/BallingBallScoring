@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NAVpQOUl64avR97a2nsCuu76fJdhH2QM4byexMSstMKdfNQvuH8+LJL4JN4GsAlhjsC8+4+v4QpHDu8W0T3Efg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VE271ND\\source\\repos\\BallingBallScoring\\BallingBallScoring\\BallingBallScoring.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VE271ND\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

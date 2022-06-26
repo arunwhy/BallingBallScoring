@@ -1,0 +1,13 @@
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\bin\Debug\netcoreapp3.1\BallingBallScoring.exe
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\bin\Debug\netcoreapp3.1\BallingBallScoring.deps.json
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\bin\Debug\netcoreapp3.1\BallingBallScoring.runtimeconfig.json
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\bin\Debug\netcoreapp3.1\BallingBallScoring.runtimeconfig.dev.json
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\bin\Debug\netcoreapp3.1\BallingBallScoring.dll
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\bin\Debug\netcoreapp3.1\BallingBallScoring.pdb
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\obj\Debug\netcoreapp3.1\BallingBallScoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\obj\Debug\netcoreapp3.1\BallingBallScoring.AssemblyInfoInputs.cache
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\obj\Debug\netcoreapp3.1\BallingBallScoring.AssemblyInfo.cs
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\obj\Debug\netcoreapp3.1\BallingBallScoring.csproj.CoreCompileInputs.cache
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\obj\Debug\netcoreapp3.1\BallingBallScoring.dll
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\obj\Debug\netcoreapp3.1\BallingBallScoring.pdb
+C:\Users\VE271ND\source\repos\BallingBallScoring\BallingBallScoring\obj\Debug\netcoreapp3.1\BallingBallScoring.genruntimeconfig.cache
